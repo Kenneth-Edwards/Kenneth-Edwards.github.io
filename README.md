@@ -4,7 +4,8 @@
 * A landing page with an explanation of the project - https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/index.html
 * Four visualization pages (temperature, humidity, cloudiness and wind speed)
 * The plot/visualization for the selected comparison with paragraph describing the plot and its significance
-  * https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/latvstemp.html
+  * Latitude vs. Temperature:
+    *https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/latvstemp.html
   * https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/latvshumidity.html
   * https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/latvscloudiness.html
   * https://kenneth-edwards.github.io/Web-Dashboard-using-Bootstrap-CSS-and-Responsive-design/Web_Visualizations/latvswindspeed.html
